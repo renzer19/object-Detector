@@ -6,6 +6,7 @@
 
 ## 🚀 How to Run
 
+### download the model from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 ```bash
 [git clone https://github.com/username/animal-detector.git](https://github.com/renzer19/object-Detector.git)
 cd animal-detector
