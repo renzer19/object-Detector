@@ -6,7 +6,8 @@
 
 ## 🚀 How to Run
 
-### download the model from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+### download the model from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md 
+### i'm using model SSD ResNet152 V1 FPN 640x640 (RetinaNet152)
 ```bash
 [git clone https://github.com/username/animal-detector.git](https://github.com/renzer19/object-Detector.git)
 cd animal-detector
